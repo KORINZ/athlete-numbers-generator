@@ -1,5 +1,5 @@
 # Athlete Numbers Generator (ゼッケンジェネレーター) v1.1.0
-A program automatically generates competition numbers for athletes based on their names, numberings, starting times, and sponsors.
+A program automatically generates competition numbers for athletes based on their names, numberings, starting times, and sponsors. Competition numbers are saved as `.png` files.
 
 ### Prerequisite
 pandas 1.5.3
