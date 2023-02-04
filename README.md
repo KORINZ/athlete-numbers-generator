@@ -2,6 +2,9 @@
 A program automatically generates competition numbers for athletes based on their names, numberings, starting times, and sponsors. Competition numbers are saved as `.png` files.
 
 ### Prerequisite
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pandas)](https://www.python.org/downloads/)
+
+
 pandas 1.5.3
 ```
 pip install pandas
